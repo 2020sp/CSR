@@ -1,1 +1,14 @@
-
+{
+   "users":[
+      {
+         "name":"Aaryan Kumar Andarpa",
+         "email":"aaryanandarpa@gmail.com",
+         "deviceId":"867780032008954"
+      },
+      {
+         "name":"Ashish Kaushik",
+         "email":"ashishkaushik765@gmail.com",
+         "deviceId":"fb71579acc4c8c34"
+      }
+   ]
+}
