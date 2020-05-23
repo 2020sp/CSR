@@ -1,5 +1,5 @@
 {
-   "ver1":"2",
+   "ver1":"4",
    "ver2":"0",
    "ver3":"\n\nMUST Update...\nYour CSR is Outdated!\nCurrent stable Re-Build is v2.0!\n\nWhat\'s new?\nFixed: Known Bugs And Improved: Stablity..."
  }
