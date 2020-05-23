@@ -1,5 +1,5 @@
 {
-   "ver1":"4",
+   "ver1":"3",
    "ver2":"0",
    "ver3":"\n\nMUST Update...\nYour CSR is Outdated!\nCurrent stable Re-Build is v3.0!\n\nWhat\'s new?\nResource management increase that function of scanning all resource,
 Optimize sound effect scheme settings,
