@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Sandeep Sharma",
+         "email":"chandrakantpokale97@gmail.com",
+         "deviceId":"6b311c80792b5930"
+      },
+      {
          "name":"Chandrakant Pokale",
          "email":"chandrakantpokale97@gmail.com",
          "deviceId":"6b311c80792b5930"
