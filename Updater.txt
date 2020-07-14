@@ -1,15 +1,5 @@
 {
-   "ver1":"3",
+   "ver1":"4",
    "ver2":"0",
-   "ver3":"\n\nMUST Update...\nYour CSR is Outdated!\nCurrent stable Re-Build is v3.0!\n\nWhat\'s new?\nResource management increase that function of scanning all resource,
-Optimize sound effect scheme settings,
-Add bottom edge gesture,
-Add the resource sharing function, and select sharing in the pop-up menu for gesture management, sound effect management, plug-in and tool list.
-Optimize the desktop operation experience of vivo system.
-Optimize vivo Calendar Operation Experience.
-After optimizing vivo and Huawei desktop installation software, the icon reads aloud the problems being downloaded or installed.
-Fix the bug that the OPPO Color OS7 call interface slides right and cannot open the speaker.
-Fix bugs that cannot be used in speech assistant full-text selection.
-Add shortcut key support to set global or single application shortcut keys.
-Fix the bug that there is no sound on the reading screen during the call after voice acceleration."
+   "ver3":"\n\nMUST Update...\nYour CSR is Outdated!\nCurrent stable Re-Build is v4.0!\n\nWhat\'s new?\nCommentary, Indonesian translation added, new Xunfei input method sliding word selection, double-click command added, time long-press command added, timing start and timing end audio added, subtitle support for fast reading on the public screen, only China adds web page by element Browse the supported types, and add the view browsing function by type."
  }
