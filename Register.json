@@ -1,6 +1,11 @@
 {
    "users":[
       {
+         "name":"Ram Bhagat",
+         "email":"bhagatsai80@gmail.com",
+         "deviceId":"adbada13e08b3001"
+      },
+      {
          "name":"MD Khaja Khan",
          "email":"khajakhanmahamad@gmail.com",
          "deviceId":"ef3606c5b11fdfd6"
