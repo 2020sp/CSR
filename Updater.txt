@@ -1,5 +1,5 @@
 {
-   "ver1":"4",
+   "ver1":"5",
    "ver2":"0",
-   "ver3":"\n\nMUST Update...\nYour CSR is Outdated!\nCurrent stable Re-Build is v4.0!\n\nWhat\'s new?\nCommentary, Indonesian translation added, new Xunfei input method sliding word selection, double-click command added, time long-press command added, timing start and timing end audio added, subtitle support for fast reading on the public screen, only China adds web page by element Browse the supported types, and add the view browsing function by type."
+   "ver3":"\n\nYour App Is Outdated!\n\nWhat's New MOD v5.0:\nWe Don't Know 😝"
  }
