@@ -8,6 +8,12 @@
       },
       {
          "expire":"23-12-2021",
+         "name":"Ashish Kaushik",
+         "email":"ashishkaushik765@gmail.com",
+         "deviceId":"fb71579acc4c8c34"
+      },
+      {
+         "expire":"23-12-2021",
          "name":"Imran Ahmad",
          "email":"dilshadalamsaifi@gmail.com",
          "deviceId":"1953c0a2c78d8eeb"
@@ -47,12 +53,6 @@
          "name":"Lovepreet Singh",
          "email":"lovep564@gmail.com",
          "deviceId":"c6f948d92f89b942"
-      },
-      {
-         "expire":"23-12-2021",
-         "name":"Ashish Kaushik",
-         "email":"ashishkaushik765@gmail.com",
-         "deviceId":"fb71579acc4c8c34"
       }
    ]
 }
