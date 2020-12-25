@@ -1,5 +1,5 @@
 {
-   "ver1":"6",
+   "ver1":"8",
    "ver2":"0",
-   "ver3":"\n\nYour App Is Outdated!\n\nWhat's New MOD v6.0:\nWe Don't Know 😝"
+   "ver3":"\n\nYour App Is Outdated!\n\nWhat's New v1223 MOD v8.0:\nWe Don't Know 😝"
  }
