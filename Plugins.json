@@ -1,6 +1,12 @@
 {
    "users":[
       {
+         "expire":"1-2-2021",
+         "name":"Santosh Jagtap",
+         "email":"sj8605919925@gmail.com",
+         "deviceId":"4fce1d0af31494c1"
+      },
+      {
          "expire":"25-2-2021",
          "name":"Vishnu Maruti Talpade",
          "email":"vishnutalpade2012@gmail.com",
