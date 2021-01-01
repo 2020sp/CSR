@@ -2,6 +2,12 @@
    "users":[
       {
          "expire":"1-2-2021",
+         "name":"Rajat Goyal",
+         "email":"rajatgoyal6633@gmail.com",
+         "deviceId":"6b36f596116e1731"
+      },
+      {
+         "expire":"1-2-2021",
          "name":"Abhishek Chaudhary",
          "email":"abhishekchaudhary928@gmail.com",
          "deviceId":"fe0f60e487aa7cb2"
